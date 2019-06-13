@@ -1,0 +1,1 @@
+FLASK_APP=pursuit_monkey/app.py flask run

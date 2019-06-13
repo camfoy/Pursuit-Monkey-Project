@@ -1,0 +1,1 @@
+web: gunicorn pursuit_monkey.app:app
