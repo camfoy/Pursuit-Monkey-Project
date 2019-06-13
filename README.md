@@ -30,18 +30,18 @@ Provide data on profitability, competitors, etc., for user to determine if there
 
 #### HOME LANDING PAGE
 
-![Home](My-images/home.png)
+![Home](My-Images/home.png)
 
 #### FULL INFO PAGE
 
-![Top Products](My-images/top-products.png)
-![Top Monthly](My-images/top-monthly.png)
-![Top Sellers](My-images/top-sellers.png)
+![Top Products](My-Images/top-products.png)
+![Top Monthly](My-Images/top-monthly.png)
+![Top Sellers](My-Images/top-sellers.png)
 
 #### PRODUCT PAGE
-![Products](My-images/products.png)
+![Products](My-Images/products.png)
 
 ### POPULARITY MAP
-![Map](My-images/map.png)
+![Map](My-Images/map.png)
 
 
