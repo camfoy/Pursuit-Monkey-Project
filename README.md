@@ -30,19 +30,18 @@ Provide data on profitability, competitors, etc., for user to determine if there
 
 #### HOME LANDING PAGE
 
-![Images/landingResize.png](images/home.jpg)
+![Images/landingResize.png](My-images/home.png)
 
 #### FULL INFO PAGE
 
-![Images/landingResize.png](images/data.jpg)
-![Images/landingResize.png](images/data2.jpg)
+![Images/landingResize.png](My-images/top-products.png)
+![Images/landingResize.png](My-images/top-monthly.png)
+![Images/landingResize.png](My-images/top-sellers.png)
 
-#### NAVBAR PAGE
-![Images/landingResize.png](images/navbar.png)
+#### PRODUCT PAGE
+![Images/landingResize.png](My-images/products.png)
 
-### SINGLE PAGES (DATA EXAMPLES)
-![Images/landingResize.png](images/google_trends.png)
-![Images/landingResize.png](images/helium_10.png)
-![Images/landingResize.png](images/amazon.png)
+### POPULARITY MAP
+![Images/landingResize.png](My-images/map.png)
 
 
