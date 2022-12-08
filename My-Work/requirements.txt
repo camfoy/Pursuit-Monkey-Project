@@ -10,7 +10,7 @@ pytrends==4.6.0
 Flask==1.0.2
 Flask-SQLAlchemy==2.4.0
 gunicorn==19.9.0
-certifi==2018.4.16
+certifi==2022.12.7
 click==6.7
 itsdangerous==0.24
 Jinja2==2.10
